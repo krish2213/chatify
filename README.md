@@ -51,12 +51,6 @@ Then open your browser and go to:
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [https://chatify.azurewebsites.net/](https://chatify.azurewebsites.net/)
-
----
-
 ## 💬 Usage
 
 ### Logging in and Chatting
